@@ -1,0 +1,10 @@
+button {
+    background-color: aqua;
+    color: white;
+    width: 15%;
+    height: 200px;
+    font-size: 3rem;
+    cursor: pointer;
+    text-align: center;
+    
+}
